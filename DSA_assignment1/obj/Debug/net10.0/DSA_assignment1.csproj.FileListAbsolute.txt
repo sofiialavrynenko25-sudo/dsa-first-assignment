@@ -1,0 +1,14 @@
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/bin/Debug/net10.0/DSA_assignment1
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/bin/Debug/net10.0/DSA_assignment1.deps.json
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/bin/Debug/net10.0/DSA_assignment1.runtimeconfig.json
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/bin/Debug/net10.0/DSA_assignment1.dll
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/bin/Debug/net10.0/DSA_assignment1.pdb
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.AssemblyInfoInputs.cache
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.AssemblyInfo.cs
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.csproj.CoreCompileInputs.cache
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.dll
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/refint/DSA_assignment1.dll
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.pdb
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/DSA_assignment1.genruntimeconfig.cache
+/Users/sofiia/Downloads/DSA_assignment1/DSA_assignment1/obj/Debug/net10.0/ref/DSA_assignment1.dll
